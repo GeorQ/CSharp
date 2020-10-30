@@ -1,0 +1,7 @@
+C:\Users\georq\Desktop\coding\cLessons\lessons\5.1_Исходники_5-Модуль\Theme_05\Example_005\bin\Debug\Example_005.exe.config
+C:\Users\georq\Desktop\coding\cLessons\lessons\5.1_Исходники_5-Модуль\Theme_05\Example_005\bin\Debug\Example_005.exe
+C:\Users\georq\Desktop\coding\cLessons\lessons\5.1_Исходники_5-Модуль\Theme_05\Example_005\bin\Debug\Example_005.pdb
+C:\Users\georq\Desktop\coding\cLessons\lessons\5.1_Исходники_5-Модуль\Theme_05\Example_005\obj\Debug\Example_005.csprojAssemblyReference.cache
+C:\Users\georq\Desktop\coding\cLessons\lessons\5.1_Исходники_5-Модуль\Theme_05\Example_005\obj\Debug\Example_005.csproj.CoreCompileInputs.cache
+C:\Users\georq\Desktop\coding\cLessons\lessons\5.1_Исходники_5-Модуль\Theme_05\Example_005\obj\Debug\Example_005.exe
+C:\Users\georq\Desktop\coding\cLessons\lessons\5.1_Исходники_5-Модуль\Theme_05\Example_005\obj\Debug\Example_005.pdb
